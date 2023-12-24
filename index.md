@@ -14,3 +14,8 @@ Here is an R code snippet:
 # Create a variable that contains 1 to 10
 myvar <- seq(1:10)
 ```
+My task list contains:
+
+- [x] First item I completed
+- [x] Second item I completed
+- [ ] Item not completed
